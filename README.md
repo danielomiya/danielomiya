@@ -4,7 +4,7 @@
 
 ![gwyddie](https://komarev.com/ghpvc/?username=gwyddie)
 
-- 🔭 I’m currently working at **Semantix**
+- 🔭 I’m currently working at **[@PicPay](https://github.com/PicPay)**
 
 - 🌱 I’m currently learning **AWS related-stuff**
 
