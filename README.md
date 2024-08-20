@@ -67,11 +67,11 @@
 ### Random stats about this account:
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" height="165" srcset="https://github-readme-streak-stats.herokuapp.com/?user=danielomiya&theme=dark&hide_border=false&exclude_days=Sat%2CSun">
-  <img alt="My stats about contributions, current streak, and longest streak" height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=danielomiya&theme=light&hide_border=false&exclude_days=Sat%2CSun">
+  <source media="(prefers-color-scheme: dark)" height="190" srcset="https://github-readme-streak-stats.herokuapp.com/?user=danielomiya&theme=dark&hide_border=false&exclude_days=Sat%2CSun">
+  <img alt="My stats about contributions, current streak, and longest streak" height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=danielomiya&theme=light&hide_border=false&exclude_days=Sat%2CSun">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" height="165" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=danielomiya&theme=dark&show_icons=true&locale=en&layout=compact&hide=html">
-  <img alt="My most used languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielomiya&theme=light&show_icons=true&locale=en&layout=compact&hide=html">
+  <source media="(prefers-color-scheme: dark)" height="190" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=danielomiya&theme=dark&show_icons=true&locale=en&layout=compact&hide=html">
+  <img alt="My most used languages" height="190" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielomiya&theme=light&show_icons=true&locale=en&layout=compact&hide=html">
 </picture>
