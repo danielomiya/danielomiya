@@ -42,26 +42,26 @@
 
 #### Cloud Providers
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,gcp&theme=dark">
-  <img alt="Icons representing AWS and GCP services" src="https://skillicons.dev/icons?i=aws,gcp&theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws%2Cgcp&theme=dark">
+  <img alt="Icons representing AWS and GCP services" src="https://skillicons.dev/icons?i=aws%2Cgcp&theme=light">
 </picture>
 
 #### DevOps and Development Tools
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,git,githubactions,regex&theme=dark">
-  <img alt="Icons representing Docker, Git, GitHub Actions, and Regex" src="https://skillicons.dev/icons?i=docker,git,githubactions,regex&theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker%2Cgit%2Cgithubactions%2Cregex&theme=dark">
+  <img alt="Icons representing Docker, Git, GitHub Actions, and Regex" src="https://skillicons.dev/icons?i=docker%2Cgit%2Cgithubactions%2Cregex&theme=light">
 </picture>
 
 #### Programming Languages
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,java,nodejs,scala&theme=dark">
-  <img alt="Icons representing Python, Java, Node.js, and Scala" src="https://skillicons.dev/icons?i=python,java,nodejs,scala&theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cjava%2Cnodejs%2Cscala&theme=dark">
+  <img alt="Icons representing Python, Java, Node.js, and Scala" src="https://skillicons.dev/icons?i=python%2Cjava%2Cnodejs%2Cscala&theme=light">
 </picture>
 
 #### Infrastructure and Databases
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kubernetes,elasticsearch,mysql,postgres&theme=dark">
-  <img alt="Icons representing Kubernetes, Elasticsearch, MySQL, and PostgreSQL" src="https://skillicons.dev/icons?i=kubernetes,elasticsearch,mysql,postgres&theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kubernetes%2Celasticsearch%2Cmysql%2Cpostgres&theme=dark">
+  <img alt="Icons representing Kubernetes, Elasticsearch, MySQL, and PostgreSQL" src="https://skillicons.dev/icons?i=kubernetes%2Celasticsearch%2Cmysql%2Cpostgres&theme=light">
 </picture>
 
 ### Random stats about this account:
